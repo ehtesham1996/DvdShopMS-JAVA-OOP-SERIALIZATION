@@ -7,4 +7,4 @@ Download or clone zip an open the eclipse project.
 
 # Version
 1.0 
-icludes bugs.
+includes bugs.
